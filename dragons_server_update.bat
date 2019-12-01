@@ -1,0 +1,1 @@
+steamcmd.exe +login anonymous +force_install_dir C:/servers/1/game/ +app_update 1088320 validate +quit
